@@ -28,3 +28,4 @@ PostgreSQL: A powerful open-source relational database used for storing user and
 SmtpLib: Python library for sending email notifications.
 Threading: Used to handle background tasks, such as calculating investment profits.
 Render: Hosting platform used to deploy the application.
+https://bipu65456.github.io/zuzu1/
